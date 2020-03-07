@@ -1,0 +1,89 @@
+.try{
+
+    background: rgb(68, 68, 173);
+text-align: center;
+border-radius: 10px;
+padding-top: 0.5rem;
+padding-bottom: 0.5rem;
+padding-left: 1.5rem;
+padding-right: 1.5;
+width: 15rem;
+height: 3.5rem;
+color: aliceblue;
+line-height: 1.2rem;
+margin-top: 1.8rem;
+
+
+}
+.aim{
+     background-color:rgb(63, 204, 124);
+     height: 3rem;
+     width: 13rem;
+     border-radius: 6px;
+     color: snow;
+}
+.main{
+    background: salmon;
+    padding-top: 0.2rem;
+    padding-left: 1.5rem;
+    padding-bottom: 3rem;
+    padding-right: 2rem;
+    text-align: center;
+}
+    h2{
+        color: seashell;
+        text-align: center;
+        margin-top: 4rem;
+    }
+    p{
+        text-align:center ;
+        color: seashell;
+        width: 16rem;
+    
+    }
+    .inputs{
+        text-align: center;
+        line-height: 3rem;
+        background: seashell;
+        margin-top: 10px;
+        padding: 5px 5px;
+        padding-top: 1rem;
+        border-radius: 5px;
+        width:14rem ;
+        height: 19rem;
+    }
+.by{
+    color: black;
+    line-height: 1rem;
+    margin-top: 0.01;
+    width: 10rem;
+    font-size: x-small;
+    padding-left: 2rem;
+}
+span{
+    color: salmon;
+}
+.first{
+    height: 2rem;
+    width: 13rem;
+    border-radius: 6px;
+    padding-left: 0.4rem;
+}
+.last{
+    height: 2rem;
+    width: 13rem;
+    border-radius: 6px;
+    padding-left: 0.4rem;
+}
+.email{
+    height: 2rem;
+    width: 13rem;
+    border-radius: 6px;
+    padding-left: 0.4rem;
+}
+.pass{
+    height: 2rem;
+    width: 13rem;
+    border-radius: 6px;
+    padding-left: 0.4rem;
+}
